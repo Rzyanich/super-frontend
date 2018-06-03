@@ -13,5 +13,6 @@ const server = http.createServer(function (request, response) {
         response.end(html);
     }
 });
+console.log(process.env.PORT);
 server.listen(process.env.PORT || 3000);
 console.log('server started');

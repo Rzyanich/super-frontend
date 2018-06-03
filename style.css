@@ -1,12 +1,18 @@
 h1{
     position: absolute;
-    left: 50%;
-    top: 50%;
-    color: #dde211;
+    left: 40%;
+    top: 40%;
+    color: brown;
 }
 
 h2{
-    left: 50%;
-    top: 50%;
-    color: #0900e2;
+    color: deeppink;
 }
+
+h3{
+    color: darksalmon;
+}
+
+myStyle{
+    color: brown;
+ }
